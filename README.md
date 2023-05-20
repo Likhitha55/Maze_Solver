@@ -1,1 +1,1 @@
-Maze_solver is a game
+Maze_Solver
